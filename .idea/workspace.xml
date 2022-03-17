@@ -2,52 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc0e6b01-9f04-4b00-9774-df3e1f1186ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/8 kyu/Hex to Decimal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 kyu/Exclusive Logical Operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abbreviate a Two Word Name.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Abbreviate a Two Word Name.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/All Star Code Challenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/All Star Code Challenge.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array plus array.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Array plus array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bartender drinks.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Bartender drinks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Beginner Series 1 School Paperwork.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Beginner Series 1 School Paperwork.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Beginner Series 2 Clock.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Beginner Series 2 Clock.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Evaluating prefix Polish notation.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Evaluating prefix Polish notation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Expressions Matter.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Expressions Matter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Find the Difference in Age between Oldest and Youngest Family Members.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Find the Difference in Age between Oldest and Youngest Family Members.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Find the first non-consecutive number.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Find the first non-consecutive number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Find the missing term in an Arithmetic Progression.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Find the missing term in an Arithmetic Progression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Function 1 - hello world.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Function 1 - hello world.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Get Planet Name By ID.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Get Planet Name By ID.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grasshopper - Grade book.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Grasshopper - Grade book.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grasshopper - Messi Goals.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Grasshopper - Messi Goals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grasshopper - Summation.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Grasshopper - Summation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/How do I compare numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/How do I compare numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Is he gonna survive.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Is he gonna survive.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Is it even.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Is it even.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Is the string uppercase.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Is the string uppercase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multiply.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Multiply.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/N-th Power.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/N-th Power.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/No zeros for heros.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/No zeros for heros.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Number toString.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Number toString.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pillars.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Pillars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polish alphabet.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Polish alphabet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Removing Elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Removing Elements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpeedCode 2 - Array Madness.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/SpeedCode 2 - Array Madness.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Subtract the Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Subtract the Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sudoku Solution Validator.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Sudoku Solution Validator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sum of positive.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Sum of positive.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Take the Derivative.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Take the Derivative.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thinkful - Number Drills Blue and red marbles.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Thinkful - Number Drills Blue and red marbles.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tic-Tac-Toe Checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Tic-Tac-Toe Checker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Total amount of points.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Total amount of points.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Triple Trouble.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Triple Trouble.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Watermelon.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Watermelon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/What century is it.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/What century is it.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Will you make it.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Will you make it.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/You Cant Code Under Pressure.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/You Cant Code Under Pressure.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/You only need one - Beginner.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/You only need one - Beginner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/altERnaTIng cAsE.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/altERnaTIng cAsE.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/get ascii value of character.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/get ascii value of character.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8 kyu/Evaluating prefix Polish notation.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/Evaluating prefix Polish notation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8 kyu/Find the missing term in an Arithmetic Progression.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/Find the missing term in an Arithmetic Progression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8 kyu/Sudoku Solution Validator.py" beforeDir="false" afterPath="$PROJECT_DIR$/4 kyu/Sudoku Solution Validator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8 kyu/Tic-Tac-Toe Checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/Tic-Tac-Toe Checker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8 kyu/What century is it.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/What century is it.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,14 +40,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/8 kyu" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/4 kyu" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\REPO\Codewars\4 kyu" />
+      <recent name="C:\REPO\Codewars\6 kyu" />
+      <recent name="C:\REPO\Codewars\5 kyu" />
       <recent name="C:\REPO\Codewars\8 kyu" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Hex to Decimal">
+  <component name="RunManager" selected="Python.main">
     <configuration name="Find the missing term in an Arithmetic Progression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,7 +63,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="C:\REPO\Codewars\8 kyu\Find the missing term in an Arithmetic Progression.py" />
+      <option name="SCRIPT_NAME" value="C:\REPO\Codewars\6 kyu\Find the missing term in an Arithmetic Progression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +126,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="C:\REPO\Codewars\8 kyu\Tic-Tac-Toe Checker.py" />
+      <option name="SCRIPT_NAME" value="C:\REPO\Codewars\5 kyu\Tic-Tac-Toe Checker.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,7 +147,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="C:\REPO\Codewars\8 kyu\What century is it.py" />
+      <option name="SCRIPT_NAME" value="C:\REPO\Codewars\6 kyu\What century is it.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,7 +168,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="C:\REPO\Codewars\8 kyu\main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,5 +208,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc0e6b01-9f04-4b00-9774-df3e1f1186ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/8 kyu/Exclusive Logical Operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8 kyu/Evaluating prefix Polish notation.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/Evaluating prefix Polish notation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8 kyu/Find the missing term in an Arithmetic Progression.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/Find the missing term in an Arithmetic Progression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8 kyu/Sudoku Solution Validator.py" beforeDir="false" afterPath="$PROJECT_DIR$/4 kyu/Sudoku Solution Validator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8 kyu/Tic-Tac-Toe Checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 kyu/Tic-Tac-Toe Checker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8 kyu/What century is it.py" beforeDir="false" afterPath="$PROJECT_DIR$/6 kyu/What century is it.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 kyu/How good are you really.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc0e6b01-9f04-4b00-9774-df3e1f1186ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/8 kyu/Tip Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 kyu/Reverse List Order.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
       <recent name="C:\REPO\Codewars\8 kyu" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Double Char">
+  <component name="RunManager" selected="Python.Reverse List Order">
     <configuration name="Double Char" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Semi-Optional" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Reverse List Order" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -98,7 +98,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8 kyu/Semi-Optional.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8 kyu/Reverse List Order.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Reverse List Order" />
         <item itemvalue="Python.Double Char" />
         <item itemvalue="Python.Filter out the geese" />
         <item itemvalue="Python.Sentence Smash" />
         <item itemvalue="Python.USD to CNY" />
-        <item itemvalue="Python.Semi-Optional" />
       </list>
     </recent_temporary>
   </component>

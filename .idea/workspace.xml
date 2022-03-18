@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc0e6b01-9f04-4b00-9774-df3e1f1186ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/8 kyu/Area or Perimeter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 kyu/Sentence Smash.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
       <recent name="C:\REPO\Codewars\8 kyu" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.USD to CNY">
+  <component name="RunManager" selected="Python.Sentence Smash">
     <configuration name="Hex to Decimal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,19 +107,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Tic-Tac-Toe Checker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Sentence Smash" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\REPO\Codewars\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8 kyu" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="C:\REPO\Codewars\5 kyu\Tic-Tac-Toe Checker.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8 kyu/Sentence Smash.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Sentence Smash" />
         <item itemvalue="Python.USD to CNY" />
         <item itemvalue="Python.Semi-Optional" />
         <item itemvalue="Python.Hex to Decimal" />
         <item itemvalue="Python.Pillars" />
-        <item itemvalue="Python.Tic-Tac-Toe Checker" />
       </list>
     </recent_temporary>
   </component>
